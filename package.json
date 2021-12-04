@@ -1,0 +1,27 @@
+{
+  "name": "Fitness_Tracker",
+  "version": "1.0.0",
+  "description": "creating an app to track workouts",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioM4/Fitness_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioM4/Fitness_Tracker/issues"
+  },
+  "homepage": "https://github.com/AntonioM4/Fitness_Tracker#readme"
+}
